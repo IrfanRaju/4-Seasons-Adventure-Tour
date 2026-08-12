@@ -10,4 +10,8 @@
     "dev": "npm run dev --workspace \"4 Seasons Adventure and Tou\"",
     "start": "npm run start --workspace \"4 Seasons Adventure and Tou\""
   }
+  ,
+  "engines": {
+    "node": ">=20"
+  }
 }
