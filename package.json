@@ -1,0 +1,13 @@
+{
+  "name": "4-seasons-adventure-tour",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "4 Seasons Adventure and Tou"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace \"4 Seasons Adventure and Tou\"",
+    "dev": "npm run dev --workspace \"4 Seasons Adventure and Tou\"",
+    "start": "npm run start --workspace \"4 Seasons Adventure and Tou\""
+  }
+}
